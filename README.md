@@ -1,5 +1,8 @@
 # Python: Hello World & Data Types Assignment
 
+![python](https://github.com/user-attachments/assets/f85d05aa-b006-4934-b5bf-a7645f8b3a81)
+
+
 ## 🐍 Introduction
 Welcome to your **first Python assignment**! In this guide, you'll learn how to print "Hello, World!" and explore Python's fundamental **data types**.
 
