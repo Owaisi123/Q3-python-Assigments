@@ -121,7 +121,8 @@ _(Check out the image below for a fun representation of Python data types!)_
 
 ### 🔗 **Additional Resources**
 📚 [Python Official Documentation](https://docs.python.org/3/)
-📚 [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+📚 [W3Schools Python Tutorial](https://www.w3schools.com/python/) 
+📚 https://github.com/panaverse/learn-modern-python
 
 ---
 
